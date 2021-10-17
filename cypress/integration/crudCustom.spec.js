@@ -1,4 +1,4 @@
-// cypress/integration/crud.js
+/// <reference path="../support/commands.d.ts" />
 
 it('CRUDs a note', () => {
   const faker = require('faker')
