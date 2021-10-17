@@ -3,6 +3,9 @@
     "defaultCommandTimeout": 10000,
     "experimentalSessionSupport": true,
     "chromeWebSecurity": false,
+    {
+      "projectId": "orzu3u"
+    },
     "env": {
         "viewportWidthBreakpoint": 768
       },
